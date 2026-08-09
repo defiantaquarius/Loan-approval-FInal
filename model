@@ -1,0 +1,5 @@
+model/decision_tree.pkl
+model/k-nearest_neighbors.pkl
+model/logistic_regression.pkl
+model/random_forest.pkl
+model/gaussian_naive_bayes.pkl
